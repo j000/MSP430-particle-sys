@@ -1,6 +1,12 @@
 About
 -----
-A particle system library for arduino  
+A particle system library for MSP430
+Hopefully it will work almost as good as original.
+
+-----
+Unchanged readme parts:
+Will update as work progresses.
+-----
 Mainly intended to be used with low-resolution displays (like an 8x8 RGB matrix).  
 
 Installation
